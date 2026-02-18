@@ -20,7 +20,7 @@ pip install -r requirements.txt
 Run the Jupyter Notebook to analyze your images:
 -   `DetectFromImage_BottleImageCountingipynb.ipynb`
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/yourrepo/blob/main/DetectFromImage_BottleImageCountingipynb.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/northlnwza/BottleImageCounting/blob/main/DetectFromImage_BottleImageCountingipynb.ipynb)
 
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
